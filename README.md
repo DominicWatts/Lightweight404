@@ -9,13 +9,13 @@ Your store can return 404 pages for many reasons.
   - Malicious traffic
   - Mistakes
 
-404 page will load a of of assets and therefore make many requests.  On high traffic sites any of the above scenarios can impact load times.
+404 page will load a lot of assets and therefore make many requests.  On high traffic sites any of the above scenarios can impact load times.
 
-This simplifies the layout of the 404 page but still returns the configured Default page in the admin
+This simplifies the layout of the 404 page but still returns the configured `Default Page` content in the admin
 
     Store > Configuration > General > Web > Default Pages
 
-Note: this extension includes some basic styling
+Note: this extension includes some basic styling. Although you can either customise this or add styling in the CMS page. Whatever works for you.
 
 # Install instructions
 
