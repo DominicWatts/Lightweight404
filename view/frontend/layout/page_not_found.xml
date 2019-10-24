@@ -12,8 +12,7 @@
         <remove src="mage/requirejs/mixins.js"/>
         <remove src="requirejs-config.js"/>
         <remove src="mage/polyfill.js"/>
-
-		<css src="Xigen_NotFound::css/notfound.css"/>
+        <css src="Xigen_NotFound::css/notfound.css"/>
     </head>
     <body>
         <referenceContainer name="page.wrapper" remove="true"/>
